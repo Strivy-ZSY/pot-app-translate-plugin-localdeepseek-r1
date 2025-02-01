@@ -13,6 +13,8 @@ ollama run deepseek-r1:1.5b
 安装插件后选取相应大小的模型，即可食用🥰
 
 ![image](https://github.com/user-attachments/assets/3f483984-871a-4d8b-adfd-c488da5b30c5)
+![image](https://github.com/user-attachments/assets/f3d9c476-2a15-4d94-9965-bd19326bd100)
+
 
 ### 补充
 
