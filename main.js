@@ -23,7 +23,7 @@ async function translate(text, from, to, options) {
                 "content": `Translate into ${to}:\n${text}`
             }
         ],
-        temperature: 1.3,
+        temperature: 0.4,
         top_p: 0.99,
         top_k: 64,
         frequency_penalty: 0,
