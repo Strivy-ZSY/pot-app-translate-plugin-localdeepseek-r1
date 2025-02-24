@@ -19,6 +19,11 @@
         "deepseek-r1:671b": "deepseek-r1:671b"
       },
       "default": "deepseek-r1:8b"
+    },
+    {
+      "key": "customPrompt",
+      "display": "自定义 Prompt",
+      "type": "input"
     }
   ],
   "language": {
