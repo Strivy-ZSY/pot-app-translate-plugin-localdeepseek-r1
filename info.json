@@ -1,9 +1,9 @@
 {
-  "id": "plugin.com.strivy-zsy.localdeepseek-r1",
+  "id": "plugin.com.lp43.localdeepseek-r1",
   "plugin_type": "translate",
   "icon": "deepseek.png",
-  "display": "DeepSeek-R1",
-  "homepage": "https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1",
+  "display": "DeepSeek-R1-v0.03",
+  "homepage": "https://github.com/lp43/pot-app-translate-plugin-localdeepseek-r1",
   "needs": [
     {
       "key": "model",
@@ -11,13 +11,13 @@
       "type": "select",
       "options": {
         "deepseek-r1:1.5b": "deepseek-r1:1.5b",
-        "deepseek-r1:7b": "deepseek-r1:7b",
-        "deepseek-r1:8b": "deepseek-r1:8b",
         "deepseek-r1:14b": "deepseek-r1:14b",
         "deepseek-r1:32b": "deepseek-r1:32b",
-        "deepseek-r1:70b": "deepseek-r1:70b",
-        "deepseek-r1:671b": "deepseek-r1:671b"
-      }
+        "deepseek-r1:671b": "deepseek-r1:671b",
+        "deepseek-r1:7b": "deepseek-r1:7b",
+        "deepseek-r1:8b": "deepseek-r1:8b"
+      },
+      "default": "deepseek-r1:7b"
     }
   ],
   "language": {
