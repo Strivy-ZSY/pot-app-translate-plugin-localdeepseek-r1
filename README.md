@@ -1,6 +1,7 @@
 # Pot-App 本地deepseek-r1 翻译插件
 
 此插件作為支持本地ollama deepseek-r1系列模型，並在POT输出窗口中不显示模型思考过程。
+补充：添加对ollama qwen3系列的支持。
 
 ### 模型安装（根据自己的电脑配置安装相应版本，支持官方1.5b~8b）
 Ollama模型网址：[deepseek-r1](https://ollama.com/library/deepseek-r1)
